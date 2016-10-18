@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "645006010151",
+    "firebase_url": "https://todofirebaseproject-9e3a9.firebaseio.com",
+    "project_id": "todofirebaseproject-9e3a9",
+    "storage_bucket": "todofirebaseproject-9e3a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645006010151:android:0b384aaa10e19eae",
+        "android_client_info": {
+          "package_name": "tieorange.com.leanappenginetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645006010151-h19j3k0l91cmrpb0dhphhtjst1h7tsu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tieorange.com.leanappenginetodoapp",
+            "certificate_hash": "08DF84ADB881104C5E2B1F2C3B110E0074A4192F"
+          }
+        },
+        {
+          "client_id": "645006010151-hti5ds9iqfus4crgg7ddgbsrf51qmi4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmaoBQkSR8EaZauP_y568vkMx2UAWjNfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645006010151-hti5ds9iqfus4crgg7ddgbsrf51qmi4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
